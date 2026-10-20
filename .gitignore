@@ -1,2 +1,13 @@
+# Ambiente virtual
 venv/
+.venv/
+
+# Cache do Python
 __pycache__/
+*.pyc
+
+# Credenciais (nunca enviar)
+.env
+
+# Arquivo gerado pelo main.py
+relatorio_movimentacoes.csv
