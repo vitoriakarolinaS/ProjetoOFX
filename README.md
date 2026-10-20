@@ -160,7 +160,7 @@ As opções de `1` a `7` dependem apenas do arquivo OFX. As opções `8` e `9` e
 
 ---
 
-## 🐘 Configuração do banco de dados
+## Configuração do banco de dados
 
 A conexão é lida da variável `DATABASE_URL`, definida em um arquivo `.env` local que **não é versionado** (está no `.gitignore`).
 
